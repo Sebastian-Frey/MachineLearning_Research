@@ -82,7 +82,7 @@ This portfolio contains 5 detailed Jupyter notebooks covering the complete spect
 - Model deployment and inference optimization
 - Modern ML pipeline development
 
-### 5. Large Language Models (`Week5_LLMs_66172.ipynb`)
+### 5. Large Language Models (`5_LLMs.ipynb`)
 **Focus:** Advanced LLM usage and text generation techniques
 
 **Technologies & Concepts:**
